@@ -5,8 +5,13 @@
 -->
 
 <p align="center">
+   <a href="https://github.com/Alysongds/github-readme-stats">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Alysongds&count_private=true&show_icons=true&custom_title=Alyson%20Github%20Stats&hide=issues&theme=dracula"/>
+    </a>    
+       
+   <a href="https://github.com/Alysongds/github-readme-stats">    
      <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysongds&&layout=compact&theme=dracula"/>
+   </a> 
 </p>
   
 <div>
